@@ -12,4 +12,5 @@ Some demo create by LightShow Creator
 # Scenes
 |Songs|Preview|Download|
 |---|---|---|
-|Wedding March |[Youtube](https://youtu.be/RpJeS3fIH1s)|[LightShow.zip]()|
+|Wedding March (The bride debut)|[Youtube](https://youtu.be)|[LightShow.zip](Scenes/Wedding1/LightShow.zip)|
+|Wedding March (The bride leaves)|[Youtube](https://youtu.be)|[LightShow.zip](Scenes/Wedding2/LightShow.zip)|
