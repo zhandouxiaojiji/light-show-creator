@@ -6,4 +6,5 @@ Some demo create by LightShow Creator
 # World Cup
 |Songs|Preview|Download|
 |---|---|---|
-|We Will Rock You|[Video](WorldCup/WeWillRockYou/preview.mp4)|[LightShow.zip](WorldCup/WeWillRockYou/LightShow.zip)|
+|We Will Rock You|[Youtube](https://youtu.be/zCorVvQh99k)|[LightShow.zip](WorldCup/WeWillRockYou/LightShow.zip)|
+|Hayya Hayya|[Youtube](https://youtu.be/RpJeS3fIH1s)|[LightShow.zip]()|
