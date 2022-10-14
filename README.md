@@ -22,13 +22,6 @@ More guides: https://github.com/teslamotors/light-show
 |Happy Birthday|[Youtube](https://youtu.be/c4l5BWJmnm8)|[LightShow.zip](Scenes/HappyBirthday/LightShow.zip)|
 |Merry Christmas|[Youtube](https://youtu.be/pC14N6Z2QZY)|[LightShow.zip](Scenes/MerryChristmas/LightShow.zip)|
 
-# World Cup
-|Songs|Preview|Download|
-|---|---|---|
-|Hayya Hayya (2022)|[Youtube](https://youtu.be/RpJeS3fIH1s)|[LightShow.zip](WorldCup/HayyaHayya/LightShow.zip)|
-|The Cup of Life (1998)|[Youtube](https://youtu.be/cqOPomTxMpo)|[LightShow.zip](WorldCup/TheCupOfLife/LightShow.zip)|
-|We Will Rock You (1994)|[Youtube](https://youtu.be/zCorVvQh99k)|[LightShow.zip](WorldCup/WeWillRockYou/LightShow.zip)|
-
 # Funny & BGM
 |Songs|Preview|Download|
 |---|---|---|
@@ -51,3 +44,9 @@ More guides: https://github.com/teslamotors/light-show
 |---|---|---|
 |Schnappi|[Youtube](https://youtu.be/b-RGHncYe1Q)|[LightShow.zip](ForKids/Schnappi/LightShow.zip)|
 
+# World Cup
+|Songs|Preview|Download|
+|---|---|---|
+|Hayya Hayya (2022)|[Youtube](https://youtu.be/RpJeS3fIH1s)|[LightShow.zip](WorldCup/HayyaHayya/LightShow.zip)|
+|The Cup of Life (1998)|[Youtube](https://youtu.be/cqOPomTxMpo)|[LightShow.zip](WorldCup/TheCupOfLife/LightShow.zip)|
+|We Will Rock You (1994)|[Youtube](https://youtu.be/zCorVvQh99k)|[LightShow.zip](WorldCup/WeWillRockYou/LightShow.zip)|
