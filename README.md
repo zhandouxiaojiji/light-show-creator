@@ -1,11 +1,11 @@
 # Tesla Light Show
-Custom light show is a cool feature of Tesla vehicles, here we share some demos made with LightShowCreator. 
+Custom light show is a cool feature of Tesla vehicles, here we share some demos created by LightShowCreator. 
 
 ![](Images/preview.gif)
 
 LightShowCreator is an APP that can make light show quickly and easily.If you are interested in it, you can also try to use it to customize your own show.
 + [Google Play](https://play.google.com/store/apps/details?id=com.coding1024.tslshow)
-+ Steam: Comming soon
++ Steam: comming soon
 
 # USB flash drive requirements
 + Must contain a base-level folder called "LightShow"(Unzip LightShow.zip downloaded from this project)
