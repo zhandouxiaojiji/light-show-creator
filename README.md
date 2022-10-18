@@ -39,6 +39,7 @@ More guides: https://github.com/teslamotors/light-show
 |---|---|---|
 |Tuesday|[Youtube](https://youtu.be/dwjc0wLnCfQ)|[LightShow.zip](Popular/Tuesday/LightShow.zip)|
 |DEAJ VU|[Youtube](https://youtu.be/dvio49U2RhE)|[LightShow.zip](Popular/DEJA%20VU/LightShow.zip)
+|Pump It Up|[Youtube](https://youtu.be/G-VYmN47iyo)|[LightShow.zip](Popular/PumpItUp/LightShow.zip)
 
 # For Kids
 |Songs|Preview|Download|
