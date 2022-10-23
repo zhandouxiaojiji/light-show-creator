@@ -5,7 +5,7 @@ Custom light show is a cool feature of Tesla vehicles, here we share some demos 
 
 LightShowCreator is an APP that can make light show quickly and easily.If you are interested in it, you can also try to use it to customize your own show.
 + [Google Play](https://play.google.com/store/apps/details?id=com.coding1024.tslshow)
-+ [Steam](https://store.steampowered.com/app/2124730/Tesla_Light_Show_Creator/)
++ [Microsoft Store](https://www.microsoft.com/store/productId/9PL28B7M856D)
 
 # USB flash drive requirements
 + Must contain a base-level folder called "LightShow"(Unzip LightShow.zip downloaded from this project)
@@ -33,6 +33,7 @@ More guides: https://github.com/teslamotors/light-show
 |Nijamena|[Youtube](https://youtu.be/3vFTLrvxN0A)|[LightShow.zip](Funny&BGM/Nijamena/LightShow.zip)|
 |Seafights|[Youtube](https://youtu.be/5yDf8Ge_mEE)|[LightShow.zip](Funny&BGM/Seafights/LightShow.zip)|
 |The Hampster Dance Song|[Youtube](https://youtu.be/Nl9QJFfxf2Y)|[LightShow.zip](Funny&BGM/TheHampsterDanceSong/LightShow.zip)|
+|Victory - Two Step From Hell | [Youtube](https://youtu.be/JfHDj0td7Y8)|[LightShow.zip](Funny&BGM/Vectory/LightShow.zip)
 
 # Popular
 |Songs|Preview|Download|
