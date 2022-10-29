@@ -17,6 +17,7 @@ More guides: https://github.com/teslamotors/light-show
 # Scenes
 |Songs|Preview|Download|
 |---|---|---|
+|Halloween Kills(Main Title Theme)|[Youtube](https://youtu.be/EEkjOqiCXso)|[LightShow.zip](Scenes/HalloweenKills/LightShow.zip)|
 |Wedding March (The bride debut)|[Youtube](https://youtu.be/iakQSEtRHS8)|[LightShow.zip](Scenes/Wedding1/LightShow.zip)|
 |Wedding March (The bride leaves)|[Youtube](https://youtu.be/Gn86WnPEw6o)|[LightShow.zip](Scenes/Wedding2/LightShow.zip)|
 |Happy Birthday|[Youtube](https://youtu.be/c4l5BWJmnm8)|[LightShow.zip](Scenes/HappyBirthday/LightShow.zip)|
