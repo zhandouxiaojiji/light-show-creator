@@ -31,7 +31,7 @@ More guides: https://github.com/teslamotors/light-show
 |AxelF|[Youtube](https://youtu.be/2tdLb02Y96o)|[LightShow.zip](Funny&BGM/AxelF/LightShow.zip)|
 |BettyBoop|[Youtube](https://youtu.be/H2x7Mawssjo)|[LightShow.zip](Funny&BGM/BettyBoop/LightShow.zip)|
 |JingleBell(LaughingAllTheWay)|[Youtube](https://youtu.be/J-K50W4beiU)|[LightShow.zip](Funny&BGM/JingleBell(LaughingAllTheWay)/LightShow.zip)|
-|KillBill|[Youtube](https://youtu.be/3TcvxzWCArA)|[LightShow.zip](Funny&BGM/KillBill/LightShow.zip)|
+|KillBill|[Youtube](https://youtu.be/6oPdOL5JQ6g)|[LightShow.zip](Funny&BGM/KillBill/LightShow.zip)|
 |Nijamena|[Youtube](https://youtu.be/3vFTLrvxN0A)|[LightShow.zip](Funny&BGM/Nijamena/LightShow.zip)|
 |Seafights|[Youtube](https://youtu.be/5yDf8Ge_mEE)|[LightShow.zip](Funny&BGM/Seafights/LightShow.zip)|
 |The Hampster Dance Song|[Youtube](https://youtu.be/Nl9QJFfxf2Y)|[LightShow.zip](Funny&BGM/TheHampsterDanceSong/LightShow.zip)|
