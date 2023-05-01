@@ -1,4 +1,10 @@
-# Light Show Creator 使用文档
+<h1 align="center"/>Light Show Creator 使用手册</h1>
+<p align="center">
+	<a href="./README.md">English</a>
+	/
+    <a href="./README-zh.md">简体中文</a>
+</p>
+
 自定义灯光秀是特斯拉汽车的一项很酷的功能。 LightShowCreator是一款可以快速轻松制作灯光秀的APP。 如果你对它感兴趣，你也可以尝试用它来定制你自己的节目。
 + [AppStore](https://apps.apple.com/us/app/light-show-creator/id6446385602)
 + [Google Play](https://play.google.com/store/apps/details?id=com.coding1024.tslshow)
@@ -22,7 +28,7 @@
 如果您的系统是Android，您可直接从文件系统里选择一首不超于5分钟的mp3或者wav文件来导入。
 
 ## IOS
-如果您的系统是IOS，您需要从第三方APP里导入音乐，如ICloud, OneDrive, GoogleDrive, Dropbox。任意支持文件共享的APP都可以，以下OneDrive为例：
+如果您的系统是IOS，您需要从第三方APP里导入音乐，如iCloud, OneDrive, GoogleDrive, Dropbox。任意支持文件共享的APP都可以，以下OneDrive为例：
 ![](Images/import01.png)
 在OneDrive里选择音乐文件
 

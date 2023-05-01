@@ -23,7 +23,63 @@ Tesla Offical guides: https://github.com/teslamotors/light-show
 Open the "Project" page, click the "New" button, enter the name of the project
 ![](Images/new-project.png)
 
-# How To Import a muisc
+# How to import music
+##Android
+If your system is Android, you can directly select an mp3 or wav file no longer than 5 minutes from the file system to import.
+
+## IOS
+If your system is IOS, you need to import music from third-party apps, such as iCloud, OneDrive, GoogleDrive, Dropbox. Any app that supports file sharing is fine. Take OneDrive as an example:
+![](Images/import01.png)
+Select music files in OneDrive
+
+![](Images/import02.png)
+Click "Open with another app"
+
+![](Images/import03.png)
+Select Light Show Creator, if not in this list, click "More", and you can find Light Show Creator in it
+
+![](Images/import04.png)
+After clicking Share in the previous step, the system will switch to Light Show Creator, click the "Music" page, and the music you selected will appear in this list within a few seconds.
+
+![](Images/import05.png)
+Click on the music you want to use, here, the import of music is complete
+
+# How to use automatic mode
+![](Images/auto.png)
+The use of the automatic mode is very simple, you only need to light up the "auto" button, and the lights will automatically light up according to the rhythm of the music. Click the play button to start recording the light show, until the end of the music playback, the light show is completed.
+
+During recording, you can adjust some parameters:
++ Step time: It is the duration of each frame, the bigger the more memory is saved
++ Rhythm sensitivity: the sensitivity to music rhythm, theoretically, the smaller the memory, the less
++ Beat time: the maximum time each time the lights are on, the bigger the more memory is saved
++ Fog light switch (the standard continued Model 3 and Model Y do not have front fog lights, it will be more effective to turn off this option)
+
+# How to use manual mode
+Manual mode allows for more personalized editing, just like playing the piano, very simple. Two symmetrical car lights are used as a group, the black keys are lit at the same time, and the white keys are lit at the sound side.
+![](Images/manual01.png)
+
+While recording manually, you can also activate the automatic mode, and you only need to control a few key lights by yourself.
+![](Images/manual02.png)
+
+# How to export light show files
+The principle of exporting a light show is the same as importing music, and it is also sent to a third-party app through the sharing function. Let's take OneDrive as an example:
+![](Images/export01.png)
+![](Images/export02.png)
+![](Images/export03.png)
+
+
+# How to use xLights for finer editing
+At present, our APP does not support the gradient effect and the control of doors and windows. If you have this requirement, you can put the three files of lightshow.wav/mp3, lightshow.fseq, and lightshow.xsq into the same directory of the PC device , and then open it with xLights.
+
+# Q&A
+### In manual mode, what should I do if the rhythm of the music is too fast to keep up with the beat?
+You can set the music playback speed on the settings page
+
+### Why does the Windows version not support manual mode
+There is no update plan for windows in the near future, because windows does not support touch screen, which is quite different from the mobile version.
+
+### Is there any good way to do multi-car linkage performance
+We have planned this function in our subsequent version plan. At present, there is a suggestion that you can divide your music into multiple tracks, then create multiple projects, and use the function of automatic mode, so that you can quickly create multiple cars. light show
 
 # Here we share some demos created by LightShowCreator. 
 ### Scenes
