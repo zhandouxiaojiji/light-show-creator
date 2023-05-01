@@ -29,16 +29,20 @@ If your system is Android, you can directly select an mp3 or wav file no longer 
 
 ## IOS
 If your system is IOS, you need to import music from third-party apps, such as iCloud, OneDrive, GoogleDrive, Dropbox. Any app that supports file sharing is fine. Take OneDrive as an example:
-![](Images/import01.png)
+<img src="Images/import01.png" style="width: 50%;" />
+
 Select music files in OneDrive
 
-![](Images/import02.png)
+<img src="Images/import02.png" style="width: 50%;" />
+
 Click "Open with another app"
 
-![](Images/import03.png)
+<img src="Images/import03.png" style="width: 50%;" />
+
 Select Light Show Creator, if not in this list, click "More", and you can find Light Show Creator in it
 
 ![](Images/import04.png)
+
 After clicking Share in the previous step, the system will switch to Light Show Creator, click the "Music" page, and the music you selected will appear in this list within a few seconds.
 
 ![](Images/import05.png)
