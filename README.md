@@ -1,21 +1,26 @@
-# Tesla Light Show
-Custom light show is a cool feature of Tesla vehicles, here we share some demos created by LightShowCreator. 
-
-![](Images/preview.gif)
-
-LightShowCreator is an APP that can make light show quickly and easily.If you are interested in it, you can also try to use it to customize your own show.
+# Light Show Creator Guide
+Custom light show is a cool feature of Tesla vehicles. LightShowCreator is an APP that can make light show quickly and easily.If you are interested in it, you can also try to use it to customize your own show.
 + [AppStore](https://apps.apple.com/us/app/light-show-creator/id6446385602)
 + [Google Play](https://play.google.com/store/apps/details?id=com.coding1024.tslshow)
 + [Microsoft Store](https://www.microsoft.com/store/productId/9PL28B7M856D)
+
+![](Images/preview.gif)
 
 # USB flash drive requirements
 + Must contain a base-level folder called "LightShow"(Unzip LightShow.zip downloaded from this project)
 + Must be formatted as exFAT, FAT 32 (for Windows), MS-DOS FAT (for Mac), ext3, or ext4. NTFS is currently not supported.
 + Must not contain a base-level TeslaCam folder.
 
-More guides: https://github.com/teslamotors/light-show
+Tesla Offical guides: https://github.com/teslamotors/light-show
 
-# Scenes
+# Create a New Project
+Open the "Project" page, click the "New" button, enter the name of the project
+![](Images/new-project.png)
+
+# How To Import a muisc
+
+# Here we share some demos created by LightShowCreator. 
+### Scenes
 |Songs|Preview|Download|
 |---|---|---|
 |Halloween Kills(Main Title Theme)|[Youtube](https://youtu.be/EEkjOqiCXso)|[LightShow.zip](Scenes/HalloweenKills/LightShow.zip)|
@@ -25,7 +30,7 @@ More guides: https://github.com/teslamotors/light-show
 |Happy Birthday|[Youtube](https://youtu.be/c4l5BWJmnm8)|[LightShow.zip](Scenes/HappyBirthday/LightShow.zip)|
 |Merry Christmas|[Youtube](https://youtu.be/pC14N6Z2QZY)|[LightShow.zip](Scenes/MerryChristmas/LightShow.zip)|
 
-# Funny & BGM
+### Funny & BGM
 |Songs|Preview|Download|
 |---|---|---|
 |Auf Und Auf Voll Lebenslust|[Youtube](https://youtu.be/QG7xRLSWCg0)|[LightShow.zip](Funny&BGM/AufUndAufVollLebenslust/LightShow.zip)|
@@ -38,19 +43,19 @@ More guides: https://github.com/teslamotors/light-show
 |The Hampster Dance Song|[Youtube](https://youtu.be/Nl9QJFfxf2Y)|[LightShow.zip](Funny&BGM/TheHampsterDanceSong/LightShow.zip)|
 |Victory - Two Step From Hell | [Youtube](https://youtu.be/JfHDj0td7Y8)|[LightShow.zip](Funny&BGM/Vectory/LightShow.zip)
 
-# Popular
+### Popular
 |Songs|Preview|Download|
 |---|---|---|
 |Tuesday|[Youtube](https://youtu.be/dwjc0wLnCfQ)|[LightShow.zip](Popular/Tuesday/LightShow.zip)|
 |DEAJ VU|[Youtube](https://youtu.be/dvio49U2RhE)|[LightShow.zip](Popular/DEJA%20VU/LightShow.zip)
 |Pump It Up|[Youtube](https://youtu.be/G-VYmN47iyo)|[LightShow.zip](Popular/PumpItUp/LightShow.zip)
 
-# For Kids
+### For Kids
 |Songs|Preview|Download|
 |---|---|---|
 |Schnappi|[Youtube](https://youtu.be/b-RGHncYe1Q)|[LightShow.zip](ForKids/Schnappi/LightShow.zip)|
 
-# World Cup
+### World Cup
 |Songs|Preview|Download|
 |---|---|---|
 |Hayya Hayya (2022)|[Youtube](https://youtu.be/RpJeS3fIH1s)|[LightShow.zip](WorldCup/HayyaHayya/LightShow.zip)|
