@@ -28,7 +28,7 @@ Open the "Project" page, click the "New" button, enter the name of the project
 If your system is Android, you can directly select an mp3 or wav file no longer than 5 minutes from the file system to import.
 
 ## IOS
-If your system is IOS, you need to import music from third-party apps, such as iCloud, OneDrive, GoogleDrive, Dropbox. Any app that supports file sharing is fine. Take OneDrive as an example:
+If your system is IOS, you need to import music from third-party apps, such as OneDrive, GoogleDrive, Dropbox(iCloud is currently not working). Any app that supports file sharing is fine. Take OneDrive as an example:
 <img src="Images/import01.png" style="width: 50%;" />
 
 Select music files in OneDrive
