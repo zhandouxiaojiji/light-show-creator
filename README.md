@@ -115,6 +115,7 @@ We have planned this function in our subsequent version plan. At present, there 
 |Tuesday|[Youtube](https://youtu.be/dwjc0wLnCfQ)|[LightShow.zip](Popular/Tuesday/LightShow.zip)|
 |DEAJ VU|[Youtube](https://youtu.be/dvio49U2RhE)|[LightShow.zip](Popular/DEJA%20VU/LightShow.zip)
 |Pump It Up|[Youtube](https://youtu.be/G-VYmN47iyo)|[LightShow.zip](Popular/PumpItUp/LightShow.zip)
+|Ankaranin baglari|[Youtube](https://youtu.be/8BakNXETqkA)|[LightShow.zip](Popular/ANKARANIN/LightShow.zip)
 
 ### For Kids
 |Songs|Preview|Download|
