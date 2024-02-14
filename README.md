@@ -10,7 +10,7 @@ Custom light show is a cool feature of Tesla vehicles. LightShowCreator is an AP
 + [Google Play](https://play.google.com/store/apps/details?id=com.coding1024.tslshow)
 + [Microsoft Store](https://www.microsoft.com/store/productId/9PL28B7M856D)
 
-![](Images/preview.gif)
+![](Images/preview.png)
 
 # USB flash drive requirements
 + Must contain a base-level folder called "LightShow"(Unzip LightShow.zip downloaded from this project)
@@ -24,29 +24,8 @@ Open the "Project" page, click the "New" button, enter the name of the project
 ![](Images/new-project.png)
 
 # How to import music
-##Android
-If your system is Android, you can directly select an mp3 or wav file no longer than 5 minutes from the file system to import.
+![](Images/import01.png)
 
-## IOS
-If your system is IOS, you need to import music from third-party apps, such as OneDrive, GoogleDrive, Dropbox(iCloud is currently not working). Any app that supports file sharing is fine. Take OneDrive as an example:
-<img src="Images/import01.png" style="width: 50%;" />
-
-Select music files in OneDrive
-
-<img src="Images/import02.png" style="width: 50%;" />
-
-Click "Open with another app"
-
-<img src="Images/import03.png" style="width: 50%;" />
-
-Select Light Show Creator, if not in this list, click "More", and you can find Light Show Creator in it
-
-![](Images/import04.png)
-
-After clicking Share in the previous step, the system will switch to Light Show Creator, click the "Music" page, and the music you selected will appear in this list within a few seconds.
-
-![](Images/import05.png)
-Click on the music you want to use, here, the import of music is complete
 
 # How to use automatic mode
 ![](Images/auto.png)
@@ -54,26 +33,17 @@ The use of the automatic mode is very simple, you only need to light up the "aut
 
 During recording, you can adjust some parameters:
 + Step time: It is the duration of each frame, the bigger the more memory is saved
-+ Rhythm sensitivity: the sensitivity to music rhythm, theoretically, the smaller the memory, the less
-+ Beat time: the maximum time each time the lights are on, the bigger the more memory is saved
++ Sensitive: the sensitivity to music rhythm, theoretically, the smaller the memory, the less
 + Fog light switch (the standard continued Model 3 and Model Y do not have front fog lights, it will be more effective to turn off this option)
 
 # How to use manual mode
 Manual mode allows for more personalized editing, just like playing the piano, very simple. Two symmetrical car lights are used as a group, the black keys are lit at the same time, and the white keys are lit at the sound side.
 ![](Images/manual01.png)
 
-While recording manually, you can also activate the automatic mode, and you only need to control a few key lights by yourself.
-![](Images/manual02.png)
-
 # How to export light show files
 The principle of exporting a light show is the same as importing music, and it is also sent to a third-party app through the sharing function. Let's take OneDrive as an example:
 ![](Images/export01.png)
-![](Images/export02.png)
-![](Images/export03.png)
 
-
-# How to use xLights for finer editing
-At present, our APP does not support the gradient effect and the control of doors and windows. If you have this requirement, you can put the three files of lightshow.wav/mp3, lightshow.fseq, and lightshow.xsq into the same directory of the PC device , and then open it with xLights.
 
 # Q&A
 ### In manual mode, what should I do if the rhythm of the music is too fast to keep up with the beat?

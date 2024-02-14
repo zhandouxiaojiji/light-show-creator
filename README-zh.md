@@ -30,19 +30,6 @@
 ## IOS
 如果您的系统是IOS，您需要从第三方APP里导入音乐，如iCloud, OneDrive, GoogleDrive, Dropbox。任意支持文件共享的APP都可以，以下OneDrive为例：
 ![](Images/import01.png)
-在OneDrive里选择音乐文件
-
-![](Images/import02.png)
-点击"使用其它应用打开"
-
-![](Images/import03.png)
-选择Light Show Creator，如果这个列表里没有，则点击"更多"，在里面能找到Light Show Creator
-
-![](Images/import04.png)
-上一步点击分享之后，系统会切到Light Show Creator，点击“音乐”页面，您选择的音乐在几秒钟内会出现在这个列表。
-
-![](Images/import05.png)
-点击您要使用的音乐，到此，导入音乐完成啦
 
 # 自动模式如何使用
 ![](Images/auto.png)
