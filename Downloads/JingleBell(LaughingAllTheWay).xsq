@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2021.40</version>
+    <author />
+    <author-email />
+    <author-website />
+    <song />
+    <artist />
+    <album />
+    <MusicURL />
+    <comment />
+    <sequenceTiming>80 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>lightshow.mp3</mediaFile>
+    <sequenceDuration>85.84</sequenceDuration>
+    <imageDir />
+  </head>
+  <nextid>1</nextid>
+  <Jukebox />
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_SLIDER_Brightness=20</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect />
+    <Effect>E_TEXTCTRL_Eff_On_End=25,E_TEXTCTRL_Eff_On_Start=25</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=50,E_TEXTCTRL_Eff_On_Start=50</Effect>
+    <Effect>E_TEXTCTRL_Eff_On_End=75,E_TEXTCTRL_Eff_On_Start=75</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="1076822144" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker" />
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="0" />
+    <Element collapsed="0" type="timing" name="100ms" visible="1" views="" active="0" />
+    <Element collapsed="0" type="model" name="Tesla Model S" visible="1" />
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer />
+    </Element>
+    <Element type="timing" name="100ms" fixed="100">
+      <EffectLayer />
+    </Element>
+    <Element type="model" name="Tesla Model S">
+      <EffectLayer />
+      <Strand index="0" name="All Lights and Closures">
+        <Node index="0" name="Left Outer Main Beam">
+          <Effect ref="0" name="On" startTime="5520" endTime="5720" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6560" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="7360" endTime="7560" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="8160" endTime="8360" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="9760" endTime="10200" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="11040" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="12400" endTime="12600" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="12960" endTime="13640" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14560" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="15600" endTime="15800" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="17680" endTime="17880" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="19840" endTime="20520" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="20880" endTime="21560" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="21920" endTime="22120" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="23520" endTime="23720" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="24560" endTime="24760" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="27680" endTime="27880" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="28480" endTime="28680" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="29280" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="34000" endTime="34200" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="36640" endTime="36840" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="40320" endTime="40520" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="46720" endTime="46920" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="48320" endTime="48520" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="48880" endTime="49080" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="51520" endTime="51720" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="53200" endTime="53880" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="55360" endTime="56040" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="56480" endTime="56680" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="57440" endTime="57640" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="61280" endTime="61480" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="62400" endTime="63080" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="63440" endTime="63640" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="66880" endTime="67080" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="68240" endTime="68680" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="72000" endTime="72200" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="74800" endTime="75000" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="77760" endTime="77960" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="81440" endTime="81640" palette="0" />
+        </Node>
+        <Node index="1" name="Right Outer Main Beam">
+          <Effect ref="0" name="On" startTime="5520" endTime="5720" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6560" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="7360" endTime="7560" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="8160" endTime="8360" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="9760" endTime="10200" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="11040" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="12400" endTime="12600" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="12960" endTime="13640" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14560" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="15600" endTime="15800" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="17680" endTime="17880" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="19840" endTime="20520" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="20880" endTime="21560" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="21920" endTime="22120" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="23520" endTime="23720" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="24560" endTime="24760" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="27680" endTime="27880" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="28480" endTime="28680" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="29280" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="34000" endTime="34200" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="36640" endTime="36840" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="40320" endTime="40520" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="46720" endTime="46920" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="48320" endTime="48520" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="48880" endTime="49080" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="51520" endTime="51720" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="53200" endTime="53880" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="55360" endTime="56040" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="56480" endTime="56680" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="57440" endTime="57640" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="61280" endTime="61480" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="62400" endTime="63080" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="63440" endTime="63640" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="66880" endTime="67080" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="68240" endTime="68680" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="72000" endTime="72200" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="74800" endTime="75000" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="77760" endTime="77960" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="81440" endTime="81640" palette="0" />
+        </Node>
+        <Node index="2" name="Left Inner Main Beam">
+          <Effect ref="0" name="On" startTime="2640" endTime="2840" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="5520" endTime="5720" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="6080" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="7120" endTime="7560" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="8160" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="11600" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="12400" endTime="12840" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="13440" endTime="13640" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14000" endTime="14200" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="14560" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="16880" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="19280" endTime="19480" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="19920" endTime="20520" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="20880" endTime="22680" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="23040" endTime="23720" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="24080" endTime="24760" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="25120" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="30720" endTime="30920" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="31360" endTime="31800" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="32160" endTime="33400" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="34000" endTime="35800" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="36240" endTime="36840" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="37200" endTime="37880" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="38720" endTime="38920" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="39840" endTime="40520" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="41920" endTime="42120" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="43520" endTime="43720" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="44080" endTime="44280" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="45120" endTime="45320" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="46160" endTime="46360" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="46720" endTime="46920" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="47280" endTime="47480" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="48320" endTime="48520" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="48880" endTime="49080" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="49440" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="50480" endTime="50680" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="51520" endTime="51720" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="52080" endTime="52280" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="52640" endTime="52840" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="53680" endTime="53880" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="54240" endTime="54440" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="54800" endTime="55000" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="55840" endTime="56040" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="56400" endTime="56600" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="57440" endTime="57640" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="58000" endTime="58200" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="58560" endTime="59000" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="60160" endTime="60360" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="60720" endTime="60920" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="61520" endTime="61960" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="62320" endTime="63080" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="63440" endTime="64120" palette="0" />
+          <Effect ref="0" name="On" id="52" startTime="64480" endTime="65720" palette="0" />
+          <Effect ref="0" name="On" id="53" startTime="66080" endTime="66280" palette="0" />
+          <Effect ref="0" name="On" id="54" startTime="66640" endTime="69480" palette="0" />
+          <Effect ref="0" name="On" id="55" startTime="69840" endTime="70040" palette="0" />
+          <Effect ref="0" name="On" id="56" startTime="70400" endTime="71080" palette="0" />
+          <Effect ref="0" name="On" id="57" startTime="71440" endTime="71640" palette="0" />
+          <Effect ref="0" name="On" id="58" startTime="72000" endTime="72200" palette="0" />
+          <Effect ref="0" name="On" id="59" startTime="74640" endTime="75080" palette="0" />
+          <Effect ref="0" name="On" id="60" startTime="75680" endTime="75880" palette="0" />
+          <Effect ref="0" name="On" id="61" startTime="76240" endTime="76840" palette="0" />
+          <Effect ref="0" name="On" id="62" startTime="77440" endTime="77640" palette="0" />
+          <Effect ref="0" name="On" id="63" startTime="78000" endTime="78200" palette="0" />
+          <Effect ref="0" name="On" id="64" startTime="78880" endTime="79560" palette="0" />
+          <Effect ref="0" name="On" id="65" startTime="81440" endTime="81640" palette="0" />
+        </Node>
+        <Node index="3" name="Right Inner Main Beam">
+          <Effect ref="0" name="On" startTime="2640" endTime="2840" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="5520" endTime="5720" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="6080" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="7120" endTime="7560" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="8160" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="11600" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="12400" endTime="12840" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="13440" endTime="13640" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14000" endTime="14200" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="14560" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="16880" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="19280" endTime="19480" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="19920" endTime="20520" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="20880" endTime="22680" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="23040" endTime="23720" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="24080" endTime="24760" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="25120" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="30720" endTime="30920" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="31360" endTime="31800" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="32160" endTime="33400" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="34000" endTime="35800" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="36240" endTime="36840" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="37200" endTime="37880" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="38720" endTime="38920" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="39840" endTime="40520" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="41920" endTime="42120" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="43520" endTime="43720" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="44080" endTime="44280" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="45120" endTime="45320" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="46160" endTime="46360" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="46720" endTime="46920" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="47280" endTime="47480" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="48320" endTime="48520" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="48880" endTime="49080" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="49440" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="50480" endTime="50680" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="51520" endTime="51720" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="52080" endTime="52280" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="52640" endTime="52840" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="53680" endTime="53880" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="54240" endTime="54440" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="54800" endTime="55000" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="55840" endTime="56040" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="56400" endTime="56600" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="57440" endTime="57640" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="58000" endTime="58200" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="58560" endTime="59000" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="60160" endTime="60360" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="60720" endTime="60920" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="61520" endTime="61960" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="62320" endTime="63080" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="63440" endTime="64120" palette="0" />
+          <Effect ref="0" name="On" id="52" startTime="64480" endTime="65720" palette="0" />
+          <Effect ref="0" name="On" id="53" startTime="66080" endTime="66280" palette="0" />
+          <Effect ref="0" name="On" id="54" startTime="66640" endTime="69480" palette="0" />
+          <Effect ref="0" name="On" id="55" startTime="69840" endTime="70040" palette="0" />
+          <Effect ref="0" name="On" id="56" startTime="70400" endTime="71080" palette="0" />
+          <Effect ref="0" name="On" id="57" startTime="71440" endTime="71640" palette="0" />
+          <Effect ref="0" name="On" id="58" startTime="72000" endTime="72200" palette="0" />
+          <Effect ref="0" name="On" id="59" startTime="74640" endTime="75080" palette="0" />
+          <Effect ref="0" name="On" id="60" startTime="75680" endTime="75880" palette="0" />
+          <Effect ref="0" name="On" id="61" startTime="76240" endTime="76840" palette="0" />
+          <Effect ref="0" name="On" id="62" startTime="77440" endTime="77640" palette="0" />
+          <Effect ref="0" name="On" id="63" startTime="78000" endTime="78200" palette="0" />
+          <Effect ref="0" name="On" id="64" startTime="78880" endTime="79560" palette="0" />
+          <Effect ref="0" name="On" id="65" startTime="81440" endTime="81640" palette="0" />
+        </Node>
+        <Node index="4" name="Left Signature">
+          <Effect ref="0" name="On" startTime="2640" endTime="2840" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="4480" endTime="4680" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="5520" endTime="7800" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="8160" endTime="9960" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="10400" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="11600" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="12400" endTime="12600" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="12960" endTime="13640" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14000" endTime="14440" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="14800" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="16160" endTime="21560" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="21920" endTime="22680" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="23280" endTime="24520" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="25120" endTime="26040" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="26400" endTime="29800" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="30240" endTime="32280" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="32960" endTime="33400" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="33760" endTime="34680" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="35280" endTime="35480" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="35840" endTime="36360" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="36720" endTime="37400" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="37920" endTime="38840" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="39200" endTime="39640" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="40320" endTime="40520" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="41680" endTime="41880" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="42480" endTime="42680" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="43520" endTime="43720" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="44880" endTime="45320" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="46160" endTime="46920" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="47520" endTime="48120" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="49920" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="51520" endTime="51720" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="53120" endTime="53320" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="53920" endTime="54440" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="55040" endTime="55240" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="55760" endTime="55960" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="56320" endTime="56840" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="57440" endTime="57640" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="58320" endTime="58920" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="59360" endTime="61160" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="61520" endTime="61720" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="62320" endTime="63560" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="63920" endTime="65720" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="66080" endTime="66520" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="67280" endTime="67480" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="68000" endTime="69480" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="69840" endTime="70040" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="70480" endTime="71000" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="71520" endTime="72040" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="73520" endTime="73720" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="74480" endTime="75160" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="75520" endTime="75720" palette="0" />
+          <Effect ref="0" name="On" id="52" startTime="76640" endTime="76840" palette="0" />
+          <Effect ref="0" name="On" id="53" startTime="77280" endTime="77720" palette="0" />
+          <Effect ref="0" name="On" id="54" startTime="78480" endTime="79960" palette="0" />
+          <Effect ref="0" name="On" id="55" startTime="81360" endTime="81800" palette="0" />
+        </Node>
+        <Node index="5" name="Right Signature">
+          <Effect ref="0" name="On" startTime="2640" endTime="2840" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="4480" endTime="4680" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="5520" endTime="7800" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="8160" endTime="9960" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="10400" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="11600" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="12400" endTime="12600" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="12960" endTime="13640" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14000" endTime="14440" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="14800" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="16160" endTime="21560" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="21920" endTime="22680" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="23280" endTime="24520" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="25120" endTime="26040" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="26400" endTime="29800" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="30240" endTime="32280" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="32960" endTime="33400" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="33760" endTime="34680" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="35280" endTime="35480" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="35840" endTime="36360" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="36720" endTime="37400" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="37920" endTime="38840" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="39200" endTime="39640" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="40320" endTime="40520" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="41680" endTime="41880" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="42480" endTime="42680" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="43520" endTime="43720" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="44880" endTime="45320" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="46160" endTime="46920" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="47520" endTime="48120" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="49920" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="51520" endTime="51720" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="53120" endTime="53320" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="53920" endTime="54440" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="55040" endTime="55240" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="55760" endTime="55960" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="56320" endTime="56840" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="57440" endTime="57640" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="58320" endTime="58920" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="59360" endTime="61160" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="61520" endTime="61720" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="62320" endTime="63560" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="63920" endTime="65720" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="66080" endTime="66520" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="67280" endTime="67480" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="68000" endTime="69480" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="69840" endTime="70040" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="70480" endTime="71000" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="71520" endTime="72040" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="73520" endTime="73720" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="74480" endTime="75160" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="75520" endTime="75720" palette="0" />
+          <Effect ref="0" name="On" id="52" startTime="76640" endTime="76840" palette="0" />
+          <Effect ref="0" name="On" id="53" startTime="77280" endTime="77720" palette="0" />
+          <Effect ref="0" name="On" id="54" startTime="78480" endTime="79960" palette="0" />
+          <Effect ref="0" name="On" id="55" startTime="81360" endTime="81800" palette="0" />
+        </Node>
+        <Node index="6" name="Left Channel 4">
+          <Effect ref="0" name="On" startTime="4800" endTime="5000" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="5760" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="7120" endTime="7560" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="8400" endTime="9640" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="10000" endTime="10200" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="10800" endTime="11000" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="11360" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="12960" endTime="13640" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14000" endTime="14440" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="15840" endTime="16040" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="16400" endTime="16600" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="17120" endTime="17880" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="18240" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="19520" endTime="19720" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="20080" endTime="22360" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="22720" endTime="22920" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="23280" endTime="23720" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="24560" endTime="24760" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="25280" endTime="26040" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="26400" endTime="26600" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="26960" endTime="27160" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="27680" endTime="28440" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="29040" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="29840" endTime="31800" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="33200" endTime="33400" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="34240" endTime="34440" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="34800" endTime="35480" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="36400" endTime="36600" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="37440" endTime="37640" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="38160" endTime="38360" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="38720" endTime="39400" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="41280" endTime="41480" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="44880" endTime="45080" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="55760" endTime="56440" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="57440" endTime="57960" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="58800" endTime="59000" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="60720" endTime="61160" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="61520" endTime="61720" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="62560" endTime="62760" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="63760" endTime="63960" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="64560" endTime="64760" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="66320" endTime="66520" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="66880" endTime="67080" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="68240" endTime="68680" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="69840" endTime="70040" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="70640" endTime="71880" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="72880" endTime="73080" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="73520" endTime="73720" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="74480" endTime="74920" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="75520" endTime="76040" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="77520" endTime="78040" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="79120" endTime="79800" palette="0" />
+          <Effect ref="0" name="On" id="52" startTime="81600" endTime="82120" palette="0" />
+        </Node>
+        <Node index="7" name="Right Channel 4">
+          <Effect ref="0" name="On" startTime="4800" endTime="5000" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="5760" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="7120" endTime="7560" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="8400" endTime="9640" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="10000" endTime="10200" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="10800" endTime="11000" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="11360" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="12960" endTime="13640" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14000" endTime="14440" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="15840" endTime="16040" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="16400" endTime="16600" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="17120" endTime="17880" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="18240" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="19520" endTime="19720" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="20080" endTime="22360" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="22720" endTime="22920" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="23280" endTime="23720" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="24560" endTime="24760" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="25280" endTime="26040" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="26400" endTime="26600" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="26960" endTime="27160" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="27680" endTime="28440" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="29040" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="29840" endTime="31800" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="33200" endTime="33400" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="34240" endTime="34440" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="34800" endTime="35480" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="36400" endTime="36600" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="37440" endTime="37640" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="38160" endTime="38360" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="38720" endTime="39400" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="41280" endTime="41480" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="44880" endTime="45080" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="55760" endTime="56440" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="57440" endTime="57960" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="58800" endTime="59000" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="60720" endTime="61160" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="61520" endTime="61720" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="62560" endTime="62760" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="63760" endTime="63960" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="64560" endTime="64760" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="66320" endTime="66520" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="66880" endTime="67080" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="68240" endTime="68680" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="69840" endTime="70040" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="70640" endTime="71880" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="72880" endTime="73080" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="73520" endTime="73720" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="74480" endTime="74920" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="75520" endTime="76040" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="77520" endTime="78040" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="79120" endTime="79800" palette="0" />
+          <Effect ref="0" name="On" id="52" startTime="81600" endTime="82120" palette="0" />
+        </Node>
+        <Node index="8" name="Left Channel 5">
+          <Effect ref="0" name="On" startTime="2640" endTime="2840" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="3760" endTime="4280" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="5520" endTime="5960" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="6320" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="8560" endTime="8760" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="10000" endTime="10200" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="10560" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="11600" endTime="11800" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14240" endTime="14440" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="15040" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="16320" endTime="17320" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="18000" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="19280" endTime="19480" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="20560" endTime="20760" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="21360" endTime="22280" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="25600" endTime="25800" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="26400" endTime="27080" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="28000" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="29840" endTime="30040" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="30560" endTime="31400" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="34240" endTime="34440" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="34800" endTime="35480" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="35840" endTime="36040" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="37360" endTime="37560" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="37920" endTime="38840" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="39200" endTime="39400" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="40320" endTime="40760" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="42480" endTime="42920" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="45440" endTime="45640" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="48240" endTime="48440" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="49360" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="52000" endTime="52200" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="54080" endTime="54280" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="55040" endTime="55240" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="55760" endTime="55960" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="57280" endTime="57480" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="58000" endTime="58200" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="58800" endTime="59000" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="60960" endTime="61160" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="62800" endTime="63000" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="63360" endTime="63960" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="64560" endTime="64760" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="66320" endTime="67080" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="68480" endTime="68680" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="69040" endTime="69240" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="70960" endTime="74520" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="74880" endTime="75080" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="75760" endTime="75960" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="77120" endTime="77640" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="78160" endTime="79880" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="80800" endTime="81240" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="81680" endTime="81880" palette="0" />
+          <Effect ref="0" name="On" id="52" startTime="82560" endTime="82760" palette="0" />
+        </Node>
+        <Node index="9" name="Right Channel 5">
+          <Effect ref="0" name="On" startTime="2640" endTime="2840" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="3760" endTime="4280" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="5520" endTime="5960" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="6320" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="8560" endTime="8760" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="10000" endTime="10200" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="10560" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="11600" endTime="11800" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="14240" endTime="14440" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="15040" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="16320" endTime="17320" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="18000" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="19280" endTime="19480" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="20560" endTime="20760" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="21360" endTime="22280" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="25600" endTime="25800" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="26400" endTime="27080" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="28000" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="29840" endTime="30040" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="30560" endTime="31400" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="34240" endTime="34440" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="34800" endTime="35480" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="35840" endTime="36040" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="37360" endTime="37560" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="37920" endTime="38840" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="39200" endTime="39400" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="40320" endTime="40760" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="42480" endTime="42920" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="45440" endTime="45640" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="48240" endTime="48440" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="49360" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="52000" endTime="52200" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="54080" endTime="54280" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="55040" endTime="55240" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="55760" endTime="55960" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="57280" endTime="57480" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="58000" endTime="58200" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="58800" endTime="59000" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="60960" endTime="61160" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="62800" endTime="63000" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="63360" endTime="63960" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="64560" endTime="64760" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="66320" endTime="67080" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="68480" endTime="68680" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="69040" endTime="69240" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="70960" endTime="74520" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="74880" endTime="75080" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="75760" endTime="75960" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="77120" endTime="77640" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="78160" endTime="79880" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="80800" endTime="81240" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="81680" endTime="81880" palette="0" />
+          <Effect ref="0" name="On" id="52" startTime="82560" endTime="82760" palette="0" />
+        </Node>
+        <Node index="10" name="Left Channel 6">
+          <Effect ref="0" name="On" startTime="2640" endTime="2840" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="4480" endTime="4680" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="6320" endTime="7000" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="8560" endTime="9000" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="9440" endTime="9640" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="10000" endTime="10200" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="10560" endTime="10760" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="11600" endTime="11800" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="12400" endTime="12600" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="15840" endTime="17240" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="18000" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="19280" endTime="19720" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="20240" endTime="20440" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="21360" endTime="21560" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="22560" endTime="23240" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="23840" endTime="24040" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="26400" endTime="26600" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="28240" endTime="28440" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="30320" endTime="30920" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="31280" endTime="31480" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="32080" endTime="32280" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="32720" endTime="33400" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="33760" endTime="34440" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="34800" endTime="35480" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="36080" endTime="36280" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="37680" endTime="38360" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="39200" endTime="39400" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="39840" endTime="40280" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="41360" endTime="42920" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="43600" endTime="43800" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="44320" endTime="44520" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="48240" endTime="48760" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="49920" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="52080" endTime="52280" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="52960" endTime="53160" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="55760" endTime="55960" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="57760" endTime="58280" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="58800" endTime="59000" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="60960" endTime="61160" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="61840" endTime="63000" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="63520" endTime="64280" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="66320" endTime="67560" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="68000" endTime="68680" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="70640" endTime="73400" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="74000" endTime="74440" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="75920" endTime="76120" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="77280" endTime="77720" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="78320" endTime="78520" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="78880" endTime="79320" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="79760" endTime="79960" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="80640" endTime="81640" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="82960" endTime="83160" palette="0" />
+        </Node>
+        <Node index="11" name="Right Channel 6">
+          <Effect ref="0" name="On" startTime="2640" endTime="2840" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="4480" endTime="4680" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="6320" endTime="7000" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="8560" endTime="9000" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="9440" endTime="9640" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="10000" endTime="10200" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="10560" endTime="10760" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="11600" endTime="11800" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="12400" endTime="12600" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="15840" endTime="17240" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="18000" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="19280" endTime="19720" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="20240" endTime="20440" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="21360" endTime="21560" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="22560" endTime="23240" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="23840" endTime="24040" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="26400" endTime="26600" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="28240" endTime="28440" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="30320" endTime="30920" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="31280" endTime="31480" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="32080" endTime="32280" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="32720" endTime="33400" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="33760" endTime="34440" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="34800" endTime="35480" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="36080" endTime="36280" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="37680" endTime="38360" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="39200" endTime="39400" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="39840" endTime="40280" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="41360" endTime="42920" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="43600" endTime="43800" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="44320" endTime="44520" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="48240" endTime="48760" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="49920" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="52080" endTime="52280" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="52960" endTime="53160" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="55760" endTime="55960" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="57760" endTime="58280" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="58800" endTime="59000" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="60960" endTime="61160" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="61840" endTime="63000" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="63520" endTime="64280" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="66320" endTime="67560" palette="0" />
+          <Effect ref="0" name="On" id="42" startTime="68000" endTime="68680" palette="0" />
+          <Effect ref="0" name="On" id="43" startTime="70640" endTime="73400" palette="0" />
+          <Effect ref="0" name="On" id="44" startTime="74000" endTime="74440" palette="0" />
+          <Effect ref="0" name="On" id="45" startTime="75920" endTime="76120" palette="0" />
+          <Effect ref="0" name="On" id="46" startTime="77280" endTime="77720" palette="0" />
+          <Effect ref="0" name="On" id="47" startTime="78320" endTime="78520" palette="0" />
+          <Effect ref="0" name="On" id="48" startTime="78880" endTime="79320" palette="0" />
+          <Effect ref="0" name="On" id="49" startTime="79760" endTime="79960" palette="0" />
+          <Effect ref="0" name="On" id="50" startTime="80640" endTime="81640" palette="0" />
+          <Effect ref="0" name="On" id="51" startTime="82960" endTime="83160" palette="0" />
+        </Node>
+        <Node index="12" name="Left Front Turn">
+          <Effect ref="0" name="On" startTime="4480" endTime="5240" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6320" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="8800" endTime="9000" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="10560" endTime="10760" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="14560" endTime="14760" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="15840" endTime="16760" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="18000" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="19520" endTime="19960" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="20560" endTime="20760" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="21120" endTime="21320" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="22560" endTime="22760" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="23600" endTime="24280" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="25840" endTime="26040" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="26480" endTime="26680" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="30320" endTime="31480" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="32720" endTime="33240" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="37120" endTime="38120" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="39200" endTime="39400" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="40080" endTime="40280" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="41680" endTime="42920" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="48560" endTime="49000" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="49920" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="52400" endTime="52600" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="53200" endTime="53640" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="54560" endTime="54760" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="56640" endTime="56840" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="57440" endTime="57960" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="61680" endTime="61880" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="62800" endTime="64440" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="64800" endTime="65240" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="66000" endTime="67560" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="71120" endTime="72200" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="72880" endTime="73080" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="74400" endTime="74600" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="75920" endTime="76120" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="77520" endTime="77720" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="78400" endTime="78600" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="79120" endTime="79320" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="79920" endTime="80520" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="81040" endTime="81240" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="82960" endTime="83160" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="84080" endTime="84280" palette="0" />
+        </Node>
+        <Node index="13" name="Right Front Turn">
+          <Effect ref="0" name="On" startTime="4480" endTime="5240" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6320" endTime="6760" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="8800" endTime="9000" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="10560" endTime="10760" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="14560" endTime="14760" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="15840" endTime="16760" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="18000" endTime="18920" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="19520" endTime="19960" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="20560" endTime="20760" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="21120" endTime="21320" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="22560" endTime="22760" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="23600" endTime="24280" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="25840" endTime="26040" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="26480" endTime="26680" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="30320" endTime="31480" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="32720" endTime="33240" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="37120" endTime="38120" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="39200" endTime="39400" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="40080" endTime="40280" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="41680" endTime="42920" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="48560" endTime="49000" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="49920" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="52400" endTime="52600" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="53200" endTime="53640" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="54560" endTime="54760" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="56640" endTime="56840" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="57440" endTime="57960" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="61680" endTime="61880" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="62800" endTime="64440" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="64800" endTime="65240" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="66000" endTime="67560" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="71120" endTime="72200" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="72880" endTime="73080" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="74400" endTime="74600" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="75920" endTime="76120" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="77520" endTime="77720" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="78400" endTime="78600" palette="0" />
+          <Effect ref="0" name="On" id="37" startTime="79120" endTime="79320" palette="0" />
+          <Effect ref="0" name="On" id="38" startTime="79920" endTime="80520" palette="0" />
+          <Effect ref="0" name="On" id="39" startTime="81040" endTime="81240" palette="0" />
+          <Effect ref="0" name="On" id="40" startTime="82960" endTime="83160" palette="0" />
+          <Effect ref="0" name="On" id="41" startTime="84080" endTime="84280" palette="0" />
+        </Node>
+        <Node index="14" name="Left Front Fog">
+          <Effect ref="0" name="On" startTime="4480" endTime="5000" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6560" endTime="7240" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="10560" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="11600" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="14800" endTime="15000" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="15840" endTime="16760" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="18480" endTime="18680" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="22560" endTime="23000" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="23600" endTime="24280" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="26400" endTime="27080" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="28480" endTime="28680" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="30320" endTime="31000" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="31760" endTime="31960" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="32720" endTime="32920" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="37120" endTime="37560" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="39200" endTime="39720" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="41440" endTime="42120" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="44080" endTime="44280" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="45920" endTime="46120" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="47680" endTime="48200" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="49920" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="52080" endTime="53400" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="56240" endTime="56440" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="57440" endTime="59160" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="60880" endTime="61080" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="61680" endTime="62280" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="62800" endTime="63720" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="64960" endTime="65400" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="66080" endTime="67800" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="69360" endTime="69560" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="69920" endTime="72200" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="74160" endTime="74360" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="75120" endTime="75320" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="77520" endTime="77720" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="78560" endTime="78760" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="80000" endTime="81000" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="83200" endTime="83400" palette="0" />
+        </Node>
+        <Node index="15" name="Right Front Fog">
+          <Effect ref="0" name="On" startTime="4480" endTime="5000" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6560" endTime="7240" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="10560" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="11600" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="14800" endTime="15000" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="15840" endTime="16760" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="18480" endTime="18680" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="22560" endTime="23000" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="23600" endTime="24280" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="26400" endTime="27080" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="28480" endTime="28680" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="30320" endTime="31000" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="31760" endTime="31960" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="32720" endTime="32920" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="37120" endTime="37560" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="39200" endTime="39720" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="41440" endTime="42120" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="44080" endTime="44280" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="45920" endTime="46120" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="47680" endTime="48200" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="49920" endTime="50120" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="52080" endTime="53400" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="56240" endTime="56440" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="57440" endTime="59160" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="60880" endTime="61080" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="61680" endTime="62280" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="62800" endTime="63720" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="64960" endTime="65400" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="66080" endTime="67800" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="69360" endTime="69560" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="69920" endTime="72200" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="74160" endTime="74360" palette="0" />
+          <Effect ref="0" name="On" id="32" startTime="75120" endTime="75320" palette="0" />
+          <Effect ref="0" name="On" id="33" startTime="77520" endTime="77720" palette="0" />
+          <Effect ref="0" name="On" id="34" startTime="78560" endTime="78760" palette="0" />
+          <Effect ref="0" name="On" id="35" startTime="80000" endTime="81000" palette="0" />
+          <Effect ref="0" name="On" id="36" startTime="83200" endTime="83400" palette="0" />
+        </Node>
+        <Node index="16" name="Left Aux Park">
+          <Effect ref="0" name="On" startTime="4480" endTime="5240" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6480" endTime="7000" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="9440" endTime="9960" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="11120" endTime="11320" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="12640" endTime="12840" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="14560" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="15840" endTime="16040" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="18480" endTime="18680" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="19280" endTime="19720" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="20560" endTime="20760" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="23600" endTime="24760" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="30400" endTime="30920" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="32800" endTime="33000" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="34240" endTime="34440" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="35200" endTime="35400" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="37360" endTime="37560" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="39280" endTime="39480" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="41680" endTime="41880" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="43840" endTime="44040" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="49920" endTime="50360" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="54240" endTime="54440" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="56400" endTime="56600" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="57440" endTime="59160" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="62800" endTime="63000" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="64560" endTime="64760" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="66080" endTime="68120" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="74080" endTime="74280" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="74880" endTime="75080" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="75920" endTime="76120" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="78160" endTime="78760" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="80800" endTime="81000" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="83200" endTime="83400" palette="0" />
+        </Node>
+        <Node index="17" name="Right Aux Park">
+          <Effect ref="0" name="On" startTime="4480" endTime="5240" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6480" endTime="7000" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="9440" endTime="9960" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="11120" endTime="11320" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="12640" endTime="12840" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="14560" endTime="15240" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="15840" endTime="16040" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="18480" endTime="18680" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="19280" endTime="19720" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="20560" endTime="20760" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="23600" endTime="24760" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="30400" endTime="30920" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="32800" endTime="33000" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="34240" endTime="34440" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="35200" endTime="35400" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="37360" endTime="37560" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="39280" endTime="39480" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="41680" endTime="41880" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="43840" endTime="44040" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="49920" endTime="50360" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="54240" endTime="54440" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="56400" endTime="56600" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="57440" endTime="59160" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="62800" endTime="63000" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="64560" endTime="64760" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="66080" endTime="68120" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="74080" endTime="74280" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="74880" endTime="75080" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="75920" endTime="76120" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="78160" endTime="78760" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="80800" endTime="81000" palette="0" />
+          <Effect ref="0" name="On" id="31" startTime="83200" endTime="83400" palette="0" />
+        </Node>
+        <Node index="18" name="Left Side Marker">
+          <Effect ref="0" name="On" startTime="4480" endTime="5000" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="12640" endTime="12840" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="14800" endTime="15000" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="19520" endTime="19720" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="25360" endTime="25560" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="29520" endTime="29720" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="32080" endTime="32280" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="34880" endTime="35080" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="36320" endTime="36520" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="38720" endTime="38920" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="39280" endTime="39480" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="41680" endTime="41880" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="52240" endTime="52440" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="57600" endTime="58280" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="66080" endTime="66280" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="74080" endTime="74280" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="77200" endTime="77800" palette="0" />
+        </Node>
+        <Node index="19" name="Right Side Marker">
+          <Effect ref="0" name="On" startTime="4480" endTime="5000" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="12640" endTime="12840" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="14800" endTime="15000" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="19520" endTime="19720" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="25360" endTime="25560" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="29520" endTime="29720" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="32080" endTime="32280" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="34880" endTime="35080" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="36320" endTime="36520" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="38720" endTime="38920" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="39280" endTime="39480" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="41680" endTime="41880" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="52240" endTime="52440" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="57600" endTime="58280" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="66080" endTime="66280" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="74080" endTime="74280" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="77200" endTime="77800" palette="0" />
+        </Node>
+        <Node index="20" name="Left Side Repeater">
+          <Effect ref="0" name="On" startTime="4480" endTime="5000" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6240" endTime="6440" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="10640" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="11840" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="12400" endTime="12600" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="20240" endTime="20440" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="20880" endTime="21080" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="26880" endTime="27080" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="28240" endTime="28440" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="29280" endTime="29720" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="32080" endTime="32600" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="33520" endTime="33960" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="34880" endTime="35960" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="43600" endTime="43800" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="44320" endTime="44520" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="45680" endTime="45880" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="51280" endTime="51480" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="57760" endTime="57960" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="65280" endTime="65480" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="69200" endTime="69400" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="74080" endTime="74280" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="77840" endTime="78040" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="78800" endTime="79320" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="82880" endTime="83080" palette="0" />
+        </Node>
+        <Node index="21" name="Right Side Repeater">
+          <Effect ref="0" name="On" startTime="4480" endTime="5000" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6240" endTime="6440" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="10640" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="11840" endTime="12040" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="12400" endTime="12600" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="20240" endTime="20440" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="20880" endTime="21080" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="26880" endTime="27080" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="28240" endTime="28440" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="29280" endTime="29720" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="32080" endTime="32600" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="33520" endTime="33960" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="34880" endTime="35960" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="43600" endTime="43800" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="44320" endTime="44520" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="45680" endTime="45880" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="51280" endTime="51480" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="57760" endTime="57960" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="65280" endTime="65480" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="69200" endTime="69400" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="74080" endTime="74280" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="77840" endTime="78040" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="78800" endTime="79320" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="82880" endTime="83080" palette="0" />
+        </Node>
+        <Node index="22" name="Left Rear Turn">
+          <Effect ref="0" name="On" startTime="5040" endTime="5240" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6640" endTime="6840" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="8800" endTime="9000" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="9760" endTime="9960" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="10640" endTime="10840" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="14800" endTime="15000" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="16000" endTime="16200" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="21120" endTime="21320" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="26880" endTime="27080" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="27680" endTime="27880" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="28240" endTime="28440" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="29280" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="29840" endTime="30040" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="30480" endTime="30680" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="33280" endTime="33480" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="34880" endTime="35720" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="36080" endTime="36280" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="46800" endTime="47000" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="55360" endTime="55560" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="57760" endTime="58200" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="60160" endTime="60360" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="64720" endTime="65160" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="66320" endTime="66520" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="67680" endTime="67880" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="69840" endTime="70040" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="70880" endTime="71080" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="75120" endTime="75320" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="76080" endTime="76280" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="77920" endTime="78120" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="78800" endTime="79000" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="82960" endTime="83160" palette="0" />
+        </Node>
+        <Node index="23" name="Right Rear Turn">
+          <Effect ref="0" name="On" startTime="5040" endTime="5240" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6640" endTime="6840" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="8800" endTime="9000" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="9760" endTime="9960" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="10640" endTime="10840" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="14800" endTime="15000" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="16000" endTime="16200" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="21120" endTime="21320" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="26880" endTime="27080" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="27680" endTime="27880" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="28240" endTime="28440" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="29280" endTime="29480" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="29840" endTime="30040" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="30480" endTime="30680" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="33280" endTime="33480" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="34880" endTime="35720" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="36080" endTime="36280" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="46800" endTime="47000" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="55360" endTime="55560" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="57760" endTime="58200" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="60160" endTime="60360" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="64720" endTime="65160" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="66320" endTime="66520" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="67680" endTime="67880" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="69840" endTime="70040" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="70880" endTime="71080" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="75120" endTime="75320" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="76080" endTime="76280" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="77920" endTime="78120" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="78800" endTime="79000" palette="0" />
+          <Effect ref="0" name="On" id="30" startTime="82960" endTime="83160" palette="0" />
+        </Node>
+        <Node index="24" name="Brake Lights">
+          <Effect ref="0" name="On" startTime="5520" endTime="5720" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6480" endTime="6680" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="9040" endTime="9640" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="10720" endTime="10920" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="12160" endTime="12360" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="12960" endTime="13160" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="20640" endTime="20840" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="24880" endTime="25080" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="26960" endTime="27160" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="27520" endTime="27720" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="28720" endTime="28920" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="32800" endTime="33240" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="34960" endTime="35160" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="35840" endTime="36040" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="38800" endTime="39000" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="45120" endTime="45320" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="46480" endTime="46680" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="55360" endTime="55560" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="58000" endTime="58680" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="59040" endTime="59240" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="59600" endTime="60920" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="61280" endTime="61480" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="61840" endTime="62040" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="64720" endTime="64920" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="67920" endTime="68120" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="74400" endTime="75560" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="76160" endTime="76360" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="77040" endTime="77240" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="77920" endTime="78120" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="79120" endTime="79320" palette="0" />
+        </Node>
+        <Node index="25" name="Left Tail">
+          <Effect ref="0" name="On" startTime="5520" endTime="5720" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6480" endTime="6680" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="9040" endTime="9640" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="10720" endTime="10920" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="12160" endTime="12360" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="12960" endTime="13160" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="20640" endTime="20840" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="24880" endTime="25080" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="26960" endTime="27160" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="27520" endTime="27720" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="28720" endTime="28920" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="32800" endTime="33240" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="34960" endTime="35160" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="35840" endTime="36040" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="38800" endTime="39000" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="45120" endTime="45320" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="46480" endTime="46680" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="55360" endTime="55560" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="58000" endTime="58680" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="59040" endTime="59240" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="59600" endTime="60920" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="61280" endTime="61480" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="61840" endTime="62040" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="64720" endTime="64920" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="67920" endTime="68120" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="74400" endTime="75560" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="76160" endTime="76360" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="77040" endTime="77240" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="77920" endTime="78120" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="79120" endTime="79320" palette="0" />
+        </Node>
+        <Node index="26" name="Right Tail">
+          <Effect ref="0" name="On" startTime="4800" endTime="5480" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6800" endTime="7000" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="7600" endTime="7800" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="9760" endTime="9960" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="10800" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="11840" endTime="12840" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="13200" endTime="13400" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="14000" endTime="14440" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="20640" endTime="20840" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="21920" endTime="22120" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="24400" endTime="25080" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="27200" endTime="27400" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="28720" endTime="29240" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="32720" endTime="33160" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="34960" endTime="35160" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="35600" endTime="35800" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="45920" endTime="46120" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="46480" endTime="46680" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="55920" endTime="56120" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="56480" endTime="57160" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="58560" endTime="58760" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="59840" endTime="60440" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="60800" endTime="61000" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="64880" endTime="65480" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="67040" endTime="67240" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="68320" endTime="68520" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="74400" endTime="74600" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="76480" endTime="76680" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="77120" endTime="77320" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="80320" endTime="80520" palette="0" />
+        </Node>
+        <Node index="27" name="Reverse Lights">
+          <Effect ref="0" name="On" startTime="4800" endTime="5480" palette="0" />
+          <Effect ref="0" name="On" id="1" startTime="6800" endTime="7000" palette="0" />
+          <Effect ref="0" name="On" id="2" startTime="7600" endTime="7800" palette="0" />
+          <Effect ref="0" name="On" id="3" startTime="9760" endTime="9960" palette="0" />
+          <Effect ref="0" name="On" id="4" startTime="10800" endTime="11240" palette="0" />
+          <Effect ref="0" name="On" id="5" startTime="11840" endTime="12840" palette="0" />
+          <Effect ref="0" name="On" id="6" startTime="13200" endTime="13400" palette="0" />
+          <Effect ref="0" name="On" id="7" startTime="14000" endTime="14440" palette="0" />
+          <Effect ref="0" name="On" id="8" startTime="20640" endTime="20840" palette="0" />
+          <Effect ref="0" name="On" id="9" startTime="21920" endTime="22120" palette="0" />
+          <Effect ref="0" name="On" id="10" startTime="24400" endTime="25080" palette="0" />
+          <Effect ref="0" name="On" id="11" startTime="27200" endTime="27400" palette="0" />
+          <Effect ref="0" name="On" id="12" startTime="28720" endTime="29240" palette="0" />
+          <Effect ref="0" name="On" id="13" startTime="32720" endTime="33160" palette="0" />
+          <Effect ref="0" name="On" id="14" startTime="34960" endTime="35160" palette="0" />
+          <Effect ref="0" name="On" id="15" startTime="35600" endTime="35800" palette="0" />
+          <Effect ref="0" name="On" id="16" startTime="45920" endTime="46120" palette="0" />
+          <Effect ref="0" name="On" id="17" startTime="46480" endTime="46680" palette="0" />
+          <Effect ref="0" name="On" id="18" startTime="55920" endTime="56120" palette="0" />
+          <Effect ref="0" name="On" id="19" startTime="56480" endTime="57160" palette="0" />
+          <Effect ref="0" name="On" id="20" startTime="58560" endTime="58760" palette="0" />
+          <Effect ref="0" name="On" id="21" startTime="59840" endTime="60440" palette="0" />
+          <Effect ref="0" name="On" id="22" startTime="60800" endTime="61000" palette="0" />
+          <Effect ref="0" name="On" id="23" startTime="64880" endTime="65480" palette="0" />
+          <Effect ref="0" name="On" id="24" startTime="67040" endTime="67240" palette="0" />
+          <Effect ref="0" name="On" id="25" startTime="68320" endTime="68520" palette="0" />
+          <Effect ref="0" name="On" id="26" startTime="74400" endTime="74600" palette="0" />
+          <Effect ref="0" name="On" id="27" startTime="76480" endTime="76680" palette="0" />
+          <Effect ref="0" name="On" id="28" startTime="77120" endTime="77320" palette="0" />
+          <Effect ref="0" name="On" id="29" startTime="80320" endTime="80520" palette="0" />
+        </Node>
+        <Node index="28" name="Rear Fog Lights" />
+        <Node index="29" name="License Plate" />
+        <Node index="30" name="Left Falcon Door" />
+        <Node index="31" name="Right Falcon Door" />
+        <Node index="32" name="Left Front Door" />
+        <Node index="33" name="Right Front Door" />
+        <Node index="34" name="Left Mirror" />
+        <Node index="35" name="Right Mirror" />
+        <Node index="36" name="Left Front Window" />
+        <Node index="37" name="Left Rear Window" />
+        <Node index="38" name="Right Front Window" />
+        <Node index="39" name="Right Rear Window" />
+        <Node index="40" name="Liftgate" />
+        <Node index="41" name="Left Front Door Handle" />
+        <Node index="42" name="Left Rear Door Handle" />
+        <Node index="43" name="Right Front Door Handle" />
+        <Node index="44" name="Rear Rear Door Handle" />
+        <Node index="45" name="Charge Port" />
+      </Strand>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1" />
+    <Tag number="1" position="-1" />
+    <Tag number="2" position="-1" />
+    <Tag number="3" position="-1" />
+    <Tag number="4" position="-1" />
+    <Tag number="5" position="-1" />
+    <Tag number="6" position="-1" />
+    <Tag number="7" position="-1" />
+    <Tag number="8" position="-1" />
+    <Tag number="9" position="-1" />
+  </TimingTags>
+</xsequence>
