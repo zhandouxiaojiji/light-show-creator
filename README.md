@@ -78,6 +78,7 @@ We have planned this function in our subsequent version plan. At present, there 
 |Seafights|[Youtube](https://youtu.be/5yDf8Ge_mEE)|[LightShow.zip](Funny&BGM/Seafights/LightShow.zip)|
 |The Hampster Dance Song|[Youtube](https://youtu.be/Nl9QJFfxf2Y)|[LightShow.zip](Funny&BGM/TheHampsterDanceSong/LightShow.zip)|
 |Victory - Two Step From Hell | [Youtube](https://youtu.be/JfHDj0td7Y8)|[LightShow.zip](Funny&BGM/Vectory/LightShow.zip)
+|Chinese Suona (耍猴儿) | [Youtube](https://youtu.be/PHS2iNy9a-Y)|[fseq](Downloads/MonkeySuona.fseq) [mp3](Downloads/MonkeySuona.mp3) [xsq](Downloads/MonkeySuona.xsq)|
 
 ### Popular
 |Songs|Preview|Download|
