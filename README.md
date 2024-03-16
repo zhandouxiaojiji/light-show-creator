@@ -80,6 +80,7 @@ We have planned this function in our subsequent version plan. At present, there 
 |Victory - Two Step From Hell| [Youtube](https://youtu.be/JfHDj0td7Y8)|[fseq](Downloads/Vectory.fseq) [mp3](Downloads/Vectory.mp3) [xsq](Downloads/Vectory.xsq)|
 |Chinese Suona (耍猴儿)| [Youtube](https://youtu.be/PHS2iNy9a-Y)|[fseq](Downloads/MonkeySuona.fseq) [mp3](Downloads/MonkeySuona.mp3) [xsq](Downloads/MonkeySuona.xsq)|
 |Astronomia Remix| [Youtube](https://youtu.be/4dl7x454HOI)|[fseq](Downloads/AstronomiaRemix.fseq) [mp3](Downloads/AstronomiaRemix.mp3) [xsq](Downloads/AstronomiaRemix.xsq)|
+|Night Fireflies and You - Aniface| [Youtube](https://youtu.be/06apHQdidiQ)|[fseq](Downloads/NightFirefliesAndYou.fseq) [mp3](Downloads/NightFirefliesAndYou.mp3) [xsq](Downloads/NightFirefliesAndYou.xsq)|
 
 
 ### Popular

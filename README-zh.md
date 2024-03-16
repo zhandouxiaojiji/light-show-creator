@@ -90,8 +90,10 @@
 |Nijamena|[Youtube](https://youtu.be/3vFTLrvxN0A)|[fseq](Downloads/Nijamena.fseq) [mp3](Downloads/Nijamena.mp3) [xsq](Downloads/Nijamena.xsq)|
 |Seafights|[Youtube](https://youtu.be/5yDf8Ge_mEE)|[fseq](Downloads/Seafights.fseq) [mp3](Downloads/Seafights.mp3) [xsq](Downloads/Seafights.xsq)|
 |The Hampster Dance Song|[Youtube](https://youtu.be/Nl9QJFfxf2Y)|[fseq](Downloads/TheHampsterDanceSong.fseq) [mp3](Downloads/TheHampsterDanceSong.mp3) [xsq](Downloads/TheHampsterDanceSong.xsq)|
-|Victory - Two Step From Hell | [Youtube](https://youtu.be/JfHDj0td7Y8)|[fseq](Downloads/Vectory.fseq) [mp3](Downloads/Vectory.mp3) [xsq](Downloads/Vectory.xsq)|
-|Chinese Suona (耍猴儿) | [Youtube](https://youtu.be/PHS2iNy9a-Y)|[fseq](Downloads/MonkeySuona.fseq) [mp3](Downloads/MonkeySuona.mp3) [xsq](Downloads/MonkeySuona.xsq)|
+|Victory - Two Step From Hell| [Youtube](https://youtu.be/JfHDj0td7Y8)|[fseq](Downloads/Vectory.fseq) [mp3](Downloads/Vectory.mp3) [xsq](Downloads/Vectory.xsq)|
+|Chinese Suona (耍猴儿)| [Youtube](https://youtu.be/PHS2iNy9a-Y)|[fseq](Downloads/MonkeySuona.fseq) [mp3](Downloads/MonkeySuona.mp3) [xsq](Downloads/MonkeySuona.xsq)|
+|Astronomia Remix| [Youtube](https://youtu.be/4dl7x454HOI)|[fseq](Downloads/AstronomiaRemix.fseq) [mp3](Downloads/AstronomiaRemix.mp3) [xsq](Downloads/AstronomiaRemix.xsq)|
+|Night Fireflies and You - Aniface| [Youtube](https://youtu.be/06apHQdidiQ)|[fseq](Downloads/NightFirefliesAndYou.fseq) [mp3](Downloads/NightFirefliesAndYou.mp3) [xsq](Downloads/NightFirefliesAndYou.xsq)|
 
 ### Popular
 |Songs|Preview|Download|
